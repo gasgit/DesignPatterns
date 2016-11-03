@@ -2,29 +2,31 @@
 # Structural pattern
 # Filter objects using criteria
 # Sample output:
-## Copied from console
-### Males:
+
+```
+Males:
+
 Person : [ Name: glen, Gender : male, Marital Status : single ]
 Person : [ Name: ben, Gender : male, Marital Status : married ]
 Person : [ Name: mark, Gender : male, Marital Status : single ]
 
-### Females: 
+Females: 
 Person : [ Name: harriot, Gender : female, Marital Status : married ]
 Person : [ Name: serena, Gender : female, Marital Status : single ]
 Person : [ Name: christine, Gender : female, Marital Status : single ]
 Person : [ Name: sarah, Gender : female, Marital Status : single ]
 Person : [ Name: juliet, Gender : female, Marital Status : married ]
 
-### Single Males: 
+Single Males: 
 Person : [ Name: glen, Gender : male, Marital Status : single ]
 Person : [ Name: mark, Gender : male, Marital Status : single ]
 
-### Single Females
+Single Females
 Person : [ Name: serena, Gender : female, Marital Status : single ]
 Person : [ Name: christine, Gender : female, Marital Status : single ]
 Person : [ Name: sarah, Gender : female, Marital Status : single ]
 
-### Single or Female: 
+Single or Female: 
 Person : [ Name: glen, Gender : male, Marital Status : single ]
 Person : [ Name: serena, Gender : female, Marital Status : single ]
 Person : [ Name: mark, Gender : male, Marital Status : single ]
@@ -33,12 +35,12 @@ Person : [ Name: sarah, Gender : female, Marital Status : single ]
 Person : [ Name: harriot, Gender : female, Marital Status : married ]
 Person : [ Name: juliet, Gender : female, Marital Status : married ]
 
-### Married: 
+Married: 
 Person : [ Name: ben, Gender : male, Marital Status : married ]
 Person : [ Name: harriot, Gender : female, Marital Status : married ]
 Person : [ Name: juliet, Gender : female, Marital Status : married ]
 
-### Persons: 
+Persons: 
 Person : [ Name: glen, Gender : male, Marital Status : single ]
 Person : [ Name: ben, Gender : male, Marital Status : married ]
 Person : [ Name: harriot, Gender : female, Marital Status : married ]
@@ -47,3 +49,5 @@ Person : [ Name: mark, Gender : male, Marital Status : single ]
 Person : [ Name: christine, Gender : female, Marital Status : single ]
 Person : [ Name: sarah, Gender : female, Marital Status : single ]
 Person : [ Name: juliet, Gender : female, Marital Status : married ]
+
+```

@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="296f2e85-33b3-4dfc-b85b-432630ba7550" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/AndCriteria.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/Criteria.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/CriteriaFemale.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/CriteriaMale.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/MarriedCriteria.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/OrCriteria.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/SingleCriteria.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/about.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/frontController/Dispatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/frontController/FrontController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/frontController/HomePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/frontController/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ie/gasgit/frontController/UserPage.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/AbstractFactory/Main.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/AbstractFactory/color/Blue.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/AbstractFactory/color/Green.class" afterPath="" />
@@ -67,11 +52,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/ie/gasgit/factory/Shape.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/ie/gasgit/factory/ShapeFactory.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/ie/gasgit/factory/Square.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/observer/Main.class" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/observer/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/template/InstorePurchaseOrder.class" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/template/InstorePurchaseOrder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/template/TemplateRunner.class" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/ie/gasgit/template/TemplateRunner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ie/gasgit/filter/about.md" afterPath="$PROJECT_DIR$/src/ie/gasgit/filter/about.md" />
     </list>
     <ignored path="DesignPatterns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -189,16 +171,16 @@
       </file>
       <file leaf-file-name="about.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ie/gasgit/filter/about.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <first_editor relative-caret-position="15">
+                <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -330,28 +312,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gasgit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesignPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gasgit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="filter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -752,8 +712,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296617" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32589287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32589287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2588513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1185,16 +1145,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ie/gasgit/filter/about.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <first_editor relative-caret-position="15">
+            <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="text-editor">

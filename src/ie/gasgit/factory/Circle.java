@@ -1,4 +1,4 @@
-package ie.gasgit.ie.gasgit.factory;
+package ie.gasgit.factory;
 
 /**
  * Created by glen on 02/08/16.

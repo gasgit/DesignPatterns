@@ -1,4 +1,4 @@
-package ie.gasgit.ie.gasgit.factory;
+package ie.gasgit.factory;
 
 public class Main {
 

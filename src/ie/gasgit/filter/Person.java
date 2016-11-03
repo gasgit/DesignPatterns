@@ -6,6 +6,9 @@ package ie.gasgit.filter;
 public class Person {
 
     private String name;
+    private String gender;
+    private String maritalStatus;
+
 
     public Person(String name, String gender, String maritalStatus) {
         this.name = name;
@@ -13,8 +16,6 @@ public class Person {
         this.maritalStatus = maritalStatus;
     }
 
-    private String gender;
-    private String maritalStatus;
 
     public String getName() {
         return name;

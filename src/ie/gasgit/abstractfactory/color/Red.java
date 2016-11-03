@@ -8,8 +8,14 @@ import ie.gasgit.abstractfactory.ifaces.Color;
 public class Red implements Color {
     @Override
     public void fill() {
-        System.out.println("CLASS RED");
-        System.out.println("METHOD: Filling Red!");
+
+
+        System.out.println("--------------------------------------");
+        System.out.println("FactoryProducer gets ColorFactory");
+        System.out.println("ColorFactory extends AbstractFactory");
+        System.out.println("Red implements Color");
+        System.out.println("Filling Red!");
+        System.out.println("--------------------------------------");
 
     }
 }

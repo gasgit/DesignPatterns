@@ -9,7 +9,15 @@ import ie.gasgit.abstractfactory.ifaces.Shape;
 public class Square implements Shape {
     @Override
     public void draw() {
-        System.out.println("CLASS SQUARE");
-        System.out.println("METHOD: Drawing Square!");
+
+        System.out.println("--------------------------------------");
+        System.out.println("FactoryProducer gets ShapeFactory");
+        System.out.println("ShapeFactory extends AbstractFactory");
+        System.out.println("Square implements Shape");
+        System.out.println("Drawing Square!");
+        System.out.println("--------------------------------------");
+
+
+
     }
 }

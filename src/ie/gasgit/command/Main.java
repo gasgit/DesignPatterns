@@ -18,6 +18,5 @@ public class Main {
         b.takeOrder(sellStock);
 
         b.placeOrders();
-	// write your code here
     }
 }

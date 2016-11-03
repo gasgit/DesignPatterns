@@ -6,6 +6,6 @@ package ie.gasgit.factory;
 public class Square implements Shape {
     @Override
     public void draw() {
-        System.out.println("Drawing A Square");
+        System.out.println("Drawing A Square!");
     }
 }
